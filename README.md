@@ -7,3 +7,5 @@
 **[AnyHeardle](https://anyheardle.vercel.app) (WOP):** i noticed alot of my favorite artist specific heardles were no longer available so i made a version for any artist you'd like!
 
 **Depop Market Analysis (WOP):** depop listing scraper and discord bot notifier for new status changes on products i want to buy or learn the market on
+
+**[Store Stalk](https://x.com/storestalkamz) (WOP/CURRENT PROJECT):** automated amazon storefront sourcing
