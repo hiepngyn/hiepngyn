@@ -1,11 +1,5 @@
-# Hello! I'm Hiep
+- Working on [Store Stalk](https://x.com/storestalkamz)
+- KSU Alumni
+  
+[![wakatime](https://wakatime.com/badge/user/6f87ee4d-aeae-44eb-80b6-e3f607d96565.svg)](https://wakatime.com/@6f87ee4d-aeae-44eb-80b6-e3f607d96565)
 
-**currently a ??? @ *????***
-
-***here are some projects that i am working on now or are my favorites!***
-
-**[AnyHeardle](https://anyheardle.vercel.app) (WOP):** i noticed alot of my favorite artist specific heardles were no longer available so i made a version for any artist you'd like!
-
-**Depop Market Analysis (WOP):** depop listing scraper and discord bot notifier for new status changes on products i want to buy or learn the market on
-
-**[Store Stalk](https://x.com/storestalkamz) (WOP/CURRENT PROJECT):** automated amazon storefront sourcing
